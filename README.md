@@ -127,5 +127,5 @@ The purpose of this dashboard is to provide a one-page visual representation of 
 ## 💬 **Let’s Connect!**  
 Have feedback or suggestions for improving this dashboard? Let’s discuss and share ideas!  
 
-**GitHub Repository**: [Link to the repository]  
-**LinkedIn**: [Your LinkedIn Profile]  
+**GitHub Repository**: https://github.com/Saimu-71/Sales-Performance-Analysis-Dashboard/
+**LinkedIn**: https://www.linkedin.com/in/tanshen-mahamud-saimu-066a471a6/
